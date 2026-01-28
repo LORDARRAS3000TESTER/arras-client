@@ -31,4 +31,4 @@ To make this work, you need to:
 
 - Fix packets, handshake, encoding, etc.
 
-**There's also a WAT file of the client arras.wasm file named app.wat which shows the readable text of the wasm file. It's still very hard to read and understand.**
+**There's also a WAT file of the client arras.wasm file named arras.wat which shows the readable text of the wasm file. It's still very hard to read and understand.**
