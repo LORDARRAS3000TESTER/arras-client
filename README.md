@@ -22,6 +22,7 @@ node e.js
 # Why it doesn’t work
 
 The official arras.io servers use their own protocol.
+
 The template server doesn’t match it.
 
 To make this work, you need to:
@@ -30,4 +31,4 @@ To make this work, you need to:
 
 - Fix packets, handshake, encoding, etc.
 
-- Update the client to connect properly to the server
+**There's also a WAT file of the client app.wasm file named app.wat which shows the readable text of the wasm file. It's still very hard to read and understand.**
