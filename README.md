@@ -10,6 +10,10 @@ If you’re here expecting something playable: it isn’t.
 
 Download / clone the repo
 
+Run this command:
+
+npm install
+
 Run the arras template server:
 
 node server.js
